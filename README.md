@@ -1,2 +1,2 @@
-# learning_by_doing
+# Learning by Doing
 Blog to share tips about software engineering
